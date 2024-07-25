@@ -33,6 +33,7 @@ h3 {
     align-items: center;
     width: 100%;
     overflow: hidden;
+    we
 }
 
 header {
@@ -266,6 +267,7 @@ footer {
 @media only screen and (max-width: 480px) {
     html {
         font-size: 14px;
+        height: -webkit-fill-available;
     }
 
     body {
